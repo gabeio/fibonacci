@@ -1,0 +1,11 @@
+# ignore all
+*
+
+# unignore dirs & files with names & extensions & .gitignore
+!*/
+!*.*
+!.gitignore
+
+# reignore .class & .out
+*.class
+*.out
